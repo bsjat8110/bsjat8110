@@ -1,3 +1,5 @@
+![banner](banner.png)
+
 # Bhoja Ram Choudhary
 
 🚀 **Web Creator • AI Builder • Systems Architect**
