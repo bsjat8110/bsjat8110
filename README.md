@@ -73,4 +73,3 @@ To build intelligent web ecosystems where AI systems collaborate, learn, and evo
 ---
 
 ⭐ **Building the future of intelligent web systems.**
-Add profile banner
