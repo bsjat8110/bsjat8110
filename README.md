@@ -1,4 +1,4 @@
-![banner](banner.png)
+![Banner](banner.png)
 
 # Bhoja Ram Choudhary
 
