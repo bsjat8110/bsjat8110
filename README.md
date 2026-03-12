@@ -1,4 +1,4 @@
-![Banner](banner.png)
+<img src="banner.png" width="100%">
 
 # Bhoja Ram Choudhary
 
